@@ -37,11 +37,11 @@ button {
 }
 
 #increment-btn {
-    background: #2C2891;
+    background: red;
 }
 
 #save-btn {
-    background: #1C7947;
+    background: green;
 }
 
 #save-el {
